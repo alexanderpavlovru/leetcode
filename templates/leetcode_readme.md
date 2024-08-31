@@ -11,7 +11,11 @@ Examples
 <details>
   <summary>Solution (click to expand)</summary>
 
-Algorithm
+#### Algorithm:
+
+#### Time complexity:
+
+#### Space complexity
 
 
 </details>
