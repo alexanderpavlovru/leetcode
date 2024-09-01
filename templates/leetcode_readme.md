@@ -1,10 +1,6 @@
 ## Title
 
-Description
-
 [link](link)
-
-Examples
 
 <br>
 
