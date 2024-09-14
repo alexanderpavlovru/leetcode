@@ -31,7 +31,6 @@ class Solution {
             }
             result = Math.max(result, streak);
         }
-
         return result;
     }
 }
