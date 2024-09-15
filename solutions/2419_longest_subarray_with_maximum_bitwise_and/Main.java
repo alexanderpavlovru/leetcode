@@ -42,6 +42,5 @@ public class Main {
         final int[] nums = new int[]{1, 3};
         final int result = solution.longestSubarray(nums);
         System.out.println(result);
-        System.out.println(1 & 5);
     }
 }
