@@ -20,8 +20,8 @@ class Solution {
                 while (current % 10 == 9 || current >= n) {
                     current /= 10;
                 }
+                current++;
             }
-            current++;
         }
 
         return result;
